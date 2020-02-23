@@ -70,3 +70,6 @@ _source/
 *.py~HEAD
 
 tfl/apps/contracts/migrations/__init__.py~new_db_version
+
+
+.migrations/
